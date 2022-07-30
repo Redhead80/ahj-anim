@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/nc22ar1gpoc0kop8/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-anim/branch/master)
 
-[GitHub Pages](https://evgeniy-27.github.io/ahj-anim/)
+[GitHub Pages](https://redhead80.github.io/ahj-anim/)
 
 ### Collapse
 
